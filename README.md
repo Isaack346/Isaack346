@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Isaack346
-- 👀 I’m interested in cost improvement .Lastly im going to be a millionaire whether you view that as a bold statement or not. It's the truth
+- 👋 Hi, I’m Isaack
+- 👀 I’m interested in constant improvement .Lastly im going to be a millionaire whether you view that as a bold statement or not. It's the truth.
 - 🌱 I’m currently learning java at Kean University. Im a Freshman right now. Update a senior(time files appreciate it)
 - 💞️ I’m looking to collaborate on coding projects.
 - 📫 How to reach me iam.isaack346@gmail.com
